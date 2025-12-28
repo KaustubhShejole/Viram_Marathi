@@ -1,0 +1,438 @@
+Sentence,Response
+Chanting the choir raised the volume as the celebrant intoned the prayer.,"Step 1 (Restoration): Chanting, the choir raised the volume as the celebrant intoned the prayer. 
+
+            Step 2 (Translation):  
+            प्रार्थनेचा उच्चार करताना, गानागाराने आवाज वाढवला, जेव्हा अभिषेकाचा उच्चार केला.
+
+            Reasoning:  The original sentence lacked a comma after ""chanting,"" leading to ambiguity.  It could be interpreted as the choir chanting *and* raising the volume, or the choir chanting *while* the volume was raised. Adding a comma clarifies that the choir was chanting, and the volume was raised as a separate action by the choir. 
+
+
+"
+"A six-month-old calf was submitted for examination, showing lameness in all four legs which had been present since soon after birth.","Step 1 (Restoration): A six-month-old calf was submitted for examination, showing lameness in all four legs, which had been present since soon after birth. 
+
+            Step 2 (Translation): एका पाच महिन्यांच्या मुलाच्या भटक्याला तपासणीसाठी सादर केले गेले, ज्याला सर्व चार पायांमध्ये लंगडपणा होता, जो जन्म झाल्यापासूनच होता.
+
+            Reasoning: The original sentence lacked a comma after ""examination"" and before ""showing"". This comma is crucial to clarify the relationship between the two clauses.  The comma separates the introductory phrase (""A six-month-old calf was submitted for examination"") from the main clause (""showing lameness in all four legs""). Without the comma, the sentence could be misinterpreted as suggesting that the lameness was the reason for the examination. 
+
+
+"
+Planning authorities should provide alternative locations for small businesses which are or would be offensive in a residential area.,"Step 1 (Restoration): Planning authorities should provide alternative locations for small businesses, which are or would be offensive in a residential area. 
+
+            Step 2 (Translation): नियोजन प्राधिकरणांनी लहान व्यवसायांसाठी पर्यायी ठिकाणे प्रदान कराव्यात, ज्यांना किंवा ज्यांना राहण्याच्या परिसरात आव्हान निर्माण होईल.
+
+            Reasoning: 
+            The original sentence lacked a comma after ""businesses,"" creating ambiguity about whether ""which are or would be offensive"" modifies ""businesses"" or the entire phrase ""alternative locations for small businesses.""  Adding the comma clarifies that the clause modifies ""businesses,"" making the meaning more logical. 
+
+
+"
+As the machine develops the forms we use to record data from past projects will be amended.,"Step 1 (Restoration): As the machine develops, the forms we use to record data from past projects will be amended. 
+
+            Step 2 (Translation): जसजशी यंत्रणा विकसित होईल, तसतसे मागील प्रकल्पांतील डेटा रेकॉर्ड करण्यासाठी आम्ही वापरत असलेले फॉर्म्स सुधारित केले जातील.
+
+            Reasoning: The original sentence lacked a comma after ""develops,"" creating ambiguity about whether ""the forms"" were being developed or if the development of the machine was a condition for amending the forms. Adding the comma clarifies the intended meaning, making it clear that the amendment of the forms is dependent on the machine's development. 
+
+
+"
+"As mentioned, first impressions can be misleading.","Step 1 (Restoration): As mentioned, first impressions can be misleading.
+
+            Step 2 (Translation): म्हणूनच, पहिल्या छापे चुकीच्या असू शकतात. 
+
+            Reasoning: The original sentence lacks a comma after ""mentioned,"" which creates ambiguity. Adding the comma clarifies that ""first impressions"" is the subject of the second clause, creating a more natural and logical flow. 
+
+
+"
+To get a clean assembly load the assembled equals table before the assembly is run.,"Step 1 (Restoration): To get a clean assembly, load the assembled equals table before the assembly is run. 
+
+            Step 2 (Translation): स्वच्छ एकत्रीकरण मिळवण्यासाठी, एकत्रित केलेल्या समानता टेबलाची लोडिंग करा एकत्रीकरण सुरू होण्यापूर्वी.
+
+            Reasoning: The original sentence lacked commas, leading to ambiguity. The comma after ""assembly"" clarifies that the phrase ""load the assembled equals table"" is a separate instruction, and the comma before ""is run"" separates the two clauses. 
+
+
+"
+Executors delay giving information about substantial deviations from agreed dates. Because of this action cannot be taken in time.,"Step 1 (Restoration): Executors delay giving information about substantial deviations from agreed dates; because of this, action cannot be taken in time. 
+
+            Step 2 (Translation): कार्यकारी महत्वाच्या वेळेच्या अपेक्षेपासून मोठ्या विचलनांबद्दल माहिती देण्यास आढळतात; यामुळे, वेळेवर कारवाई केली जाऊ शकत नाही.
+
+            Reasoning: The original sentence lacked a semicolon and comma, leading to a run-on sentence. The semicolon separates two independent clauses that are closely related, while the comma after ""this"" clarifies the beginning of the dependent clause. This punctuation restoration ensures the sentence flows logically and accurately conveys the intended meaning. 
+
+
+"
+These glycans are poorly transferred to proteins resulting in unoccupied glycosylation sequons.,"Step 1 (Restoration): These glycans are poorly transferred to proteins, resulting in unoccupied glycosylation sequons. 
+
+            Step 2 (Translation): हे ग्लायकन्स प्रथिनेला खूपच कमी प्रमाणात स्थानांतरित होतात, ज्यामुळे रिकाम्या ग्लायकोसिलीकरण सेक्वॉन येतात.
+
+            Reasoning: The original sentence lacked a comma after ""proteins,"" creating ambiguity about whether ""resulting"" was modifying ""glycans"" or the entire phrase ""transferred to proteins."" Adding the comma clarifies that ""resulting"" modifies ""unoccupied glycosylation sequons,"" making the sentence grammatically correct and semantically clear. 
+
+
+"
+"X is an effective acute, oral treatment for migraine with a rapid onset of action","Step 1 (Restoration): X is an effective, acute, oral treatment for migraine with a rapid onset of action. 
+
+            Step 2 (Translation):  एक्स माइग्रेनसाठी एक प्रभावी, तात्काळ, मौखिक उपचार आहे जो जलद परिणाम देतो. 
+
+            Reasoning: The original sentence lacked commas, making it unclear whether ""acute"" and ""oral"" were modifiers of ""treatment"" or separate attributes. Adding commas clarifies that ""acute"" and ""oral"" describe the nature of the treatment. 
+
+
+"
+No newspaper is completely unbiased in my expert opinion.,"Step 1 (Restoration): No, newspaper is completely unbiased in my expert opinion. 
+
+            Step 2 (Translation): मला माहितीच्या दृष्टिकोनातून, कोणत्याही वृत्तपत्र पूर्णपणे निष्पक्ष नाही.
+
+            Reasoning: The original sentence lacked a comma after ""No,"" which creates ambiguity. Adding the comma clarifies that ""No"" is an emphatic negation, meaning ""Not any newspaper"" rather than ""No newspaper is.""  This is crucial for the accurate translation in Marathi. 
+
+
+
+"
+Steam for example is just as damaging as acid for that material.,"Step 1 (Restoration): Steam, for example, is just as damaging as acid, for that material. 
+
+            Step 2 (Translation): वाष्प, उदाहरणार्थ, त्या पदार्थासाठी अम्ल जितकेच हानीकारक आहे.
+
+            Reasoning: The original sentence lacked commas, leading to ambiguity. The comma after ""Steam"" separates the example, and the comma after ""acid"" separates the clause explaining the comparison. This punctuation clarifies the intended meaning. 
+
+
+"
+"My favourite opera composers are Verdi, Puccini, Mozart and Gilbert and Sullivan.","Step 1 (Restoration): My favourite opera composers are Verdi, Puccini, Mozart, and Gilbert and Sullivan.
+
+            Step 2 (Translation): माझे आवडते ओपेरा संगीतकार आहेत वेरडी, पुकिनि, मोजार्ट आणि गिल्बर्ट आणि सल्लिव्हान. 
+
+            Reasoning:  The original sentence lacked commas to separate the items in the list of composers. Adding commas after each name creates a clear and grammatically correct list, making the intended meaning unambiguous. 
+
+
+"
+The only problem with the new project established in the desert at high cost is the lack of good access roads.,"Step 1 (Restoration): The only problem with the new project, established in the desert at high cost, is the lack of good access roads. 
+
+            Step 2 (Translation): नवीन प्रकल्पात, ज्याला उंच खर्चात उर्ध्वरेष्यात स्थापन केले आहे, यात एकमेव समस्या म्हणजे चांगल्या प्रवेश मार्गांचा अभाव आहे.
+
+            Reasoning: The original sentence lacked a comma after ""project"" which led to ambiguity.  The comma clarifies that ""established in the desert at high cost"" is a descriptive phrase modifying the ""new project.""  This punctuation ensures the Marathi translation accurately reflects the intended meaning. 
+
+
+"
+Having failed in all previous attempts he evolved a new plan which surprised everybody.,"Step 1 (Restoration): Having failed in all previous attempts, he evolved a new plan which surprised everybody. 
+
+            Step 2 (Translation): सर्व पूर्व प्रयत्नांमध्ये अपयश झाल्यावर, तो एक नवीन योजना आखला जी सर्वांनाच आश्चर्यचकित केली.
+
+            Reasoning: The original sentence lacks a comma after ""attempts,"" creating ambiguity about whether ""he evolved a new plan"" is directly related to the previous clause. Adding the comma clarifies the sentence structure and shows that the new plan was a consequence of his previous failures. 
+
+
+"
+When the film was developed none of the pictures proved satisfactory.,"Step 1 (Restoration): When the film was developed, none of the pictures proved satisfactory. 
+
+            Step 2 (Translation):  फिल्म विकसित झाली की, कोणत्याही फोटो समाधानकारक ठरला नाही.
+
+            Reasoning: The original sentence lacks a comma after ""developed,"" leading to ambiguity.  It's unclear if ""none of the pictures"" refers to the pictures being developed or to the pictures after they were developed. Adding a comma clarifies that the sentence refers to the pictures after development. 
+
+
+"
+The school has adequate study facilities but hardly any sports facilities.,"Step 1 (Restoration): The school has adequate study facilities, but hardly any sports facilities. 
+
+            Step 2 (Translation): शाळेत अभ्यासासाठी पुरेशी सुविधा आहेत, पण खेळासाठी अगदी कमी सुविधा आहेत.
+
+            Reasoning: The original sentence lacks a comma after ""facilities"" in the first clause. This comma is essential to separate the two contrasting ideas: adequate study facilities and hardly any sports facilities. Without the comma, the sentence could be misinterpreted as saying the school has inadequate facilities for both study and sports. 
+
+
+"
+In his daily traffickings a Cairene resident is often made conscious of the suffocating pollution.,"Step 1 (Restoration): In his daily traffickings, a Cairene resident is often made conscious of the suffocating pollution. 
+
+            Step 2 (Translation):  दिवसभरात त्याच्या व्यापाराच्या बाबींमध्ये, कायरोचे रहिवासी अनेकदा वेदनादायक प्रदूषणाची जाणीव पाहतो.
+
+            Reasoning: The original sentence lacks a comma after ""traffickings,"" creating ambiguity.  Adding the comma clarifies that ""traffickings"" modifies ""resident"" and separates the two clauses. This punctuation aligns with the intended meaning, highlighting the resident's experience within their daily activities. 
+
+
+"
+If drama implies conflict and poetry metaphor then poetic drama must imply the dramatization of metaphor!,"Step 1 (Restoration): If drama implies conflict, and poetry metaphor, then poetic drama must imply the dramatization of metaphor!
+
+            Step 2 (Translation): जर नाटक संघर्षाचा अर्थ असेल, तर कविता रूपकाचा अर्थ असेल, तर कवितात्मक नाटक रूपकाचा नाट्यकरण करण्याचा अर्थ असावा!
+
+            Reasoning: The original sentence lacked commas to separate the independent clauses and create a clear structure. Adding commas after ""conflict"" and ""metaphor"" clarifies the relationships between the ideas and makes the intended meaning more explicit. 
+
+
+"
+Items serve as the nodes of the knowledge network and user-defined relators serve as the links between items.,"Step 1 (Restoration): Items serve as the nodes of the knowledge network, and user-defined relators serve as the links between items. 
+
+            Step 2 (Translation): वस्तू ज्ञान नेटवर्कच्या नोड्स म्हणून कार्य करतात, आणि वापरकर्त्याने परिभाषित संबंध वस्तूंमधील जोड्या म्हणून कार्य करतात. 
+
+            Reasoning: The original sentence lacked commas, creating ambiguity about the relationship between the clauses. Adding commas separates the two independent clauses, clearly indicating that ""items"" and ""user-defined relators"" have distinct roles within the knowledge network. 
+
+
+"
+A translator of technical texts often has to handle large amounts of information and needs to ensure that it is stored in an easily retrievable form.,"Step 1 (Restoration): A translator of technical texts often has to handle large amounts of information, and needs to ensure that it is stored in an easily retrievable form. 
+
+            Step 2 (Translation): एक तंत्रज्ञानात्मक ग्रंथांचे भाषांतरक अनेकदा मोठ्या प्रमाणात माहिती हाताळावी लागते आणि त्याची असे संग्रहित करावी लागते की ते सोप्यापणे शोधता येईल.
+
+            Reasoning: The original sentence lacked a comma after ""information,"" creating ambiguity about whether ""and needs to ensure"" was modifying ""information"" or the entire preceding clause. Adding the comma clarifies the intended meaning, separating the two independent clauses and making it clear that the need for retrievable storage applies to the information itself. 
+
+
+"
+The calculator executed the functions that had been selected and displayed the results on the top half of the screen.,"Step 1 (Restoration): The calculator executed the functions that had been selected, and displayed the results on the top half of the screen. 
+
+            Step 2 (Translation): कॅल्क्युलेटरने निवडलेल्या कार्ये पूर्ण केली आणि परिणाम स्क्रीनच्या वरच्या अर्धा भागात प्रदर्शित केले.
+
+            Reasoning: The original sentence lacked commas to separate the two actions performed by the calculator: executing functions and displaying results. Adding commas clarifies the sequence of actions and improves the readability of the sentence. 
+
+
+"
+"There are many disturbing factors fatigue, poor eye-sight, poor reading ability, anxiety or undue caution, distractibility, and inadequate motivation.","Step 1 (Restoration): There are many disturbing factors: fatigue, poor eyesight, poor reading ability, anxiety or undue caution, distractibility, and inadequate motivation. 
+
+            Step 2 (Translation): अनेक अडचणीचे घटक आहेत: थकवा, कमकुवत दृष्टी, कमी वाचन क्षमता, चिंता किंवा अनावश्यक सावधगिरी, लक्ष केंद्रित नसणे आणि अपुरा प्रेरणा.
+
+            Reasoning: The original sentence lacked commas to separate the list of factors. Adding commas clarifies the intended meaning, making it clear that each item in the list is a separate disturbing factor. 
+
+
+"
+"These are the components required motor brushes, bearings, and wiring.","Step 1 (Restoration): These are the components required: motor brushes, bearings, and wiring. 
+
+            Step 2 (Translation): आवश्यक असलेले घटक खालीलप्रमाणे आहेत: मोटार ब्रशेस, बेअरिंग्ज आणि वायरिंग.
+
+            Reasoning: The original sentence lacks a colon after ""required,"" which is necessary to clearly indicate that the following items are a list of components.  Adding the colon separates the introductory phrase from the list, making the meaning unambiguous. 
+
+
+"
+"When a source of sound is operating in a room or other enclosure, the sound pressure in the room consists of two components direct sound and reverberant sound.","Step 1 (Restoration): When a source of sound is operating in a room or other enclosure, the sound pressure in the room consists of two components: direct sound and reverberant sound. 
+
+            Step 2 (Translation): जेव्हा ध्वनी स्रोत एका खोली किंवा इतर बंदिस्त जागी कार्य करतो, तेव्हा खोलीतील ध्वनी दाब दोन घटकांपासून बनतो: प्रत्यक्ष ध्वनी आणि परावर्तित ध्वनी.
+
+            Reasoning: The original sentence lacked a comma after ""enclosure"" and a colon before ""direct sound.""  These punctuation marks are essential to clarify that ""direct sound and reverberant sound"" are the two components of the sound pressure. The colon introduces the list of components, making the sentence structure clearer and the meaning unambiguous. 
+
+
+"
+The crucial words in the specification are the signals must be routed internally.,"Step 1 (Restoration): The crucial words in the specification are: the signals must be routed internally. 
+
+            Step 2 (Translation):  विशिष्टतेतील महत्त्वाचे शब्द हे आहेत: संकेत आतूनच वाहिले पाहिजेत.
+
+            Reasoning:  The original sentence lacked a colon after ""specification"" and a comma after ""signals.""  The colon introduces a list of crucial words, and the comma separates the list item ""the signals"" from the rest of the clause. This punctuation clarifies the intended meaning, which is that the signals must be routed internally according to the specification. 
+"
+Would you please supply a list of the correct settings for the ABC,"Step 1 (Restoration): Would you please supply a list of the correct settings for the ABC?
+
+            Step 2 (Translation):  आपण असेल का ABCसाठी योग्य सेटिंग्सची यादी पुरवता येईल?
+
+            Reasoning: The original sentence lacked a question mark at the end, making it unclear if it was a statement or a question. Adding the question mark clarifies the intended meaning as a polite request. 
+
+
+"
+Set BATTERY B switch to OFF set BATTERY C switch to ON.,"Step 1 (Restoration): Set BATTERY B switch to OFF; set BATTERY C switch to ON. 
+
+            Step 2 (Translation):  बॅटरी बी स्विच ऑफ करा; बॅटरी सी स्विच ऑन करा.
+
+            Reasoning: The original sentence is ambiguous because it lacks punctuation to separate the two instructions. Adding a semicolon (;) clearly indicates that there are two distinct commands, one for BATTERY B and one for BATTERY C. 
+
+
+"
+"What we see, we believe what we hear, we register","Step 1 (Restoration): What we see, we believe; what we hear, we register. 
+
+            Step 2 (Translation): जे पाहतो, त्यावर विश्वास ठेवतो; जे ऐकतो, त्याची नोंद घेतो.
+
+            Reasoning: The original sentence is grammatically incorrect and ambiguous. The comma after ""see"" and ""hear"" are necessary to separate the clauses and show that each clause has its own subject and verb.  Without these commas, the sentence could be interpreted as ""What we see, we believe what we hear, we register"" which is a nonsensical statement. 
+
+
+"
+"However oxidative stress occurs when the balance is disturbed, through an increase in reactive oxygen species","Step 1 (Restoration): However, oxidative stress occurs when the balance is disturbed, through an increase in reactive oxygen species. 
+
+            Step 2 (Translation): तथापि, ऑक्सिडेटिव्ह स्ट्रेस होतो जेव्हा संतुलन बिघडतो, तेव्हा प्रतिक्रियाशील ऑक्सिजन स्पीशीजमध्ये वाढ होते.
+
+            Reasoning: 
+            The original sentence lacked a comma after ""However"" and before ""oxidative stress occurs."" This comma is crucial because it separates the introductory adverbial phrase (""However"") from the main clause. Without the comma, the sentence could be misinterpreted as saying that oxidative stress is ""however"" itself, which is grammatically incorrect. 
+
+
+"
+Should any burner fail to ignite its respective section will revert to 'purge' and in this way the system ensures safe removal of unburned fuel,"Step 1 (Restoration): Should any burner fail to ignite, its respective section will revert to 'purge', and in this way, the system ensures safe removal of unburned fuel. 
+
+            Step 2 (Translation): जर कोणत्याही बर्नरला ज्वलन होण्यास अयशस्वी व्हावा, तर त्याच्या संबंधित भागात 'पर्ज' करण्यास परत जाईल आणि या प्रकारे, प्रणाली अज्वललेल्या इंधनाच्या सुरक्षित काढणीची खात्री करते.
+
+            Reasoning: The original sentence lacked commas, leading to ambiguity about the relationship between the clauses. Adding commas after ""ignite"" and ""purge"" clarifies the sequence of events and separates the two independent clauses, resulting in a more grammatically correct and understandable sentence. 
+
+
+"
+"At present rates of return giving a net profit of only 7% are widespread in the industry, indicating increased competition and tighter profit margins.","Step 1 (Restoration): At present, rates of return giving a net profit of only 7% are widespread in the industry, indicating increased competition and tighter profit margins. 
+
+            Step 2 (Translation):  आजच्या दरानुसार, ७% इतके नेट प्रॉफिट देणारे परतावा व्यापक आहेत, ज्यामुळे उद्योगात वाढलेली स्पर्धा आणि कमी प्रॉफिट मार्जिन दर्शविले आहेत.
+
+            Reasoning: The original sentence lacked a comma after ""present"" and before ""rates of return,"" leading to ambiguity. Adding the comma clarifies that ""present"" modifies ""rates of return"" and separates the two clauses. This punctuation restoration accurately reflects the intended meaning of the sentence. 
+
+
+"
+"He draws an analogy between this and the learning process of a new-born child as it develops into maturity and quotes Freud: ""Where id was, there ego shall be.""","Step 1 (Restoration): He draws an analogy between this and the learning process of a new-born child, as it develops into maturity, and quotes Freud: ""Where id was, there ego shall be.""
+
+            Step 2 (Translation): तो याच्याशी नवजात बाळाच्या शिकण्याच्या प्रक्रियेशी तुलना करतो, ज्याप्रमाणे तो परिपक्व होत असतो आणि फ्रायडचा उद्धरण करते: ""जहाँ आइड होता, तिथे आहं असेल.""
+
+            Reasoning: 
+            The original sentence lacked commas to separate the clauses and the quoted material. 
+            Adding commas after ""child"" and ""maturity"" clarifies the structure and shows that the quoted phrase is a separate thought. 
+
+
+"
+"Unfortunately though incorrect predictions were made about both negative and positive experiments, leading to doubts about the reliability of the underlying model.","Step 1 (Restoration): Unfortunately, though incorrect predictions were made about both negative and positive experiments, leading to doubts about the reliability of the underlying model. 
+
+            Step 2 (Translation): दुःखद आहे, तरीही नकारात्मक आणि सकारात्मक प्रयोगांबद्दल चुकीच्या अंदाजे आढळले, ज्यामुळे अंतर्गत मॉडेलची विश्वासार्हता यावर संशयास्पद वाटले.
+
+            Reasoning:  The original sentence lacked a comma after ""Unfortunately"" and before ""though,"" creating ambiguity about the relationship between the two clauses. Adding these commas clarifies that ""though"" introduces a contrasting element, making the meaning more coherent. 
+
+
+"
+Reject the applicant using procedure XYZ to ensure compliance with standard evaluation protocols.,"Step 1 (Restoration): Reject the applicant, using procedure XYZ, to ensure compliance with standard evaluation protocols. 
+
+            Step 2 (Translation):  आवेदकास नाकारा, प्रक्रिया XYZ वापरून, मानक मूल्यांकन प्रोटोकॉलची पूर्तता करण्यासाठी.
+
+            Reasoning: The original sentence lacked commas, leading to ambiguity about the relationship between ""using procedure XYZ"" and the rest of the sentence. Adding commas clarifies that ""using procedure XYZ"" is an action taken to ensure compliance.  
+
+
+"
+It represents an early quantifiable hyperplastic response of the tissue to injury.,"Step 1 (Restoration): It represents an early, quantifiable, hyperplastic response of the tissue to injury. 
+
+            Step 2 (Translation): ही ऊतीला जखमी झाल्यावर होणारी एका जवळपास मोजण्यायोग्य, अतिवृद्धि प्रतिक्रिया दर्शवते.
+
+            Reasoning: The original sentence lacked commas, making it unclear whether ""quantifiable"" modifies ""response"" or ""hyperplastic."" Adding commas clarifies that ""quantifiable"" describes the ""response,"" resulting in a more logical and grammatically correct sentence. 
+
+
+"
+Return the XYZ to the operator following the ABC routine to verify proper functioning and safety.,"Step 1 (Restoration): Return the XYZ to the operator, following the ABC routine, to verify proper functioning and safety. 
+
+            Step 2 (Translation): XYZला ऑपरेटरला, ABC रूटीन पाळून परत करा, योग्य कार्यक्षमता आणि सुरक्षिततेची खात्री करण्यासाठी.
+
+            Reasoning:  The original sentence lacked commas, leading to ambiguity about the relationship between the actions. Adding commas clarifies the sequence: 1) Return XYZ to the operator, 2) following the ABC routine, 3) to verify proper functioning and safety. This punctuation reflects the logical flow of the instructions. 
+
+
+"
+Insert the new disk into the disk drive with the notch at the bottom facing the drive’s entry slot.,"Step 1 (Restoration): Insert the new disk into the disk drive, with the notch at the bottom facing the drive’s entry slot. 
+
+            Step 2 (Translation): नवीन डिस्क ड्राइव्हमध्ये टाका, त्याच्या खालील नॉच ड्राइव्हच्या प्रवेश स्लॉटला तोंड देऊन.
+
+            Reasoning: The original sentence lacked a comma after ""drive,"" which created ambiguity. The comma clarifies that ""with the notch..."" is a modifier describing how the disk should be inserted. 
+
+
+"
+"Replace the fuel lines and electrical conduits, which have cracks or damaged B-nut fittings to prevent leaks and ensure safe operation.","Step 1 (Restoration): Replace the fuel lines and electrical conduits, which have cracks or damaged B-nut fittings, to prevent leaks and ensure safe operation. 
+
+            Step 2 (Translation): फ्युअल लाईन्स आणि विद्युत कंड्युइट्स बदलवा, ज्यामध्ये फट किंवा नुकसान झालेले बी-नट फिटिंग्स आहेत, लीक रोखण्यासाठी आणि सुरक्षित कामगिरी सुनिश्चित करण्यासाठी.
+
+            Reasoning: The original sentence lacked commas to separate the dependent clause (""which have cracks or damaged B-nut fittings"") from the main clause. Adding commas clarifies the relationship between the clauses and ensures the meaning is conveyed accurately. The comma after ""conduits"" also separates the introductory phrase from the main verb phrase, improving readability. 
+
+
+"
+The processor accepts data from input devices and checks it before computing to ensure accuracy and prevent errors.,"Step 1 (Restoration): The processor accepts data from input devices, and checks it before computing, to ensure accuracy and prevent errors. 
+
+            Step 2 (Translation): प्रोसेसर इनपुट उपकरणांपासून डेटा स्वीकारतो आणि ते संगणनापूर्वी तपासतो, सटीकतेची खात्री करण्यासाठी आणि त्रुटी टाळण्यासाठी.
+
+            Reasoning: The original sentence lacked commas, leading to ambiguity about the relationship between the actions of ""accepting data"" and ""checking it."" Adding commas clarifies that ""checking"" is a separate action performed before ""computing.""  This punctuation reflects the logical flow of the process. 
+
+
+"
+"The orifice through which the exhaust gases leave the chamber, is larger than the intake valve opening.","Step 1 (Restoration): The orifice through which the exhaust gases leave the chamber, is larger than the intake valve opening.
+
+            Step 2 (Translation):  उसहून बाहेर पडणाऱ्या निकास वायूंच्या जागेचे आकार, प्रवेश वाल्व्हीच्या उघडण्यापेक्षा मोठा आहे. 
+
+            Reasoning: The original sentence lacked a comma after ""chamber,"" leading to ambiguity.  The comma clarifies that the phrase ""is larger than the intake valve opening"" modifies the preceding phrase ""the orifice through which the exhaust gases leave the chamber.""  Without the comma, it could be misinterpreted as if the orifice itself is larger than the intake valve. 
+
+
+"
+Take no action as the camera operates automatically under all lighting conditions.,"Step 1 (Restoration): Take no action, as the camera operates automatically under all lighting conditions. 
+
+            Step 2 (Translation):  काहीही कारवाई करू नका, कारण कॅमेरा सर्व प्रकाश परिस्थितीत स्वयंचलितपणे कार्य करते.
+
+            Reasoning: The original sentence is ambiguous because it's unclear if ""as the camera operates automatically"" is a dependent clause modifying ""take no action."" Adding a comma separates the clauses clearly, indicating that the lack of action is a recommendation based on the camera's automatic operation. 
+
+
+"
+The species of fish supported by the reef are varied and abundant food supplies are available to sustain their populations.,"Step 1 (Restoration): The species of fish supported by the reef are varied, and abundant food supplies are available to sustain their populations. 
+
+            Step 2 (Translation): रीफने समर्थित केलेल्या मासेच्या प्रजाती विविध आहेत, आणि त्यांच्या लोकसंख्यांना पोषित करण्यासाठी भरपूर अन्न पुरवठा उपलब्ध आहे.
+
+            Reasoning: The original sentence lacked a comma after ""varied,"" creating ambiguity about whether ""abundant food supplies"" were a characteristic of the fish or a separate statement. Adding the comma clarifies that the two clauses are independent and creates a more natural flow. 
+
+
+"
+"At high temperatures, all the ceramic materials show ductility and hardness decreases considerably, leading to a higher risk of deformation under load.","Step 1 (Restoration): At high temperatures, all the ceramic materials show ductility; and hardness decreases considerably, leading to a higher risk of deformation under load. 
+
+            Step 2 (Translation): उंच तापमानावर, सर्व सिरेमिक पदार्थांना दुराव आणि कठोरता खूप कमी होते, ज्यामुळे ताणावर वक्रता होण्याची उच्च शक्यता असते.
+
+            Reasoning:  The original sentence lacked a semicolon after ""ductility"" which created ambiguity.  The semicolon separates two independent clauses that are closely related but could be misinterpreted as a single, run-on sentence. The restored punctuation clarifies the relationship between the two parts of the sentence. 
+
+
+"
+"This produces hard copy that can be retained but printed sheets are bulky to handle, so digital storage and viewing are often preferred.","Step 1 (Restoration): This produces hard copy that can be retained, but printed sheets are bulky to handle, so digital storage and viewing are often preferred. 
+
+            Step 2 (Translation):  हे हार्ड कॉपी तयार करते जे राखले जाऊ शकते, पण छापलेले कागदपत्रे हाताळण्यास मोटे असतात, म्हणून डिजिटल संग्रहण आणि पाहणे अनेकदा प्राधान्य दिले जाते.
+
+            Reasoning: The original sentence lacked commas to separate the independent clauses and a dependent clause. Adding commas clarifies the structure and shows that ""but printed sheets are bulky to handle"" is a contrasting point to ""that can be retained."" 
+
+
+"
+Connection to PTT-supplied packet-switch networks will be a prime requirement of the workstation and gateways into these networks are planned by the PTTs to ensure seamless data communication.,"Step 1 (Restoration): Connection to PTT-supplied packet-switch networks will be a prime requirement of the workstation, and gateways into these networks are planned by the PTTs to ensure seamless data communication. 
+
+            Step 2 (Translation):  पीटीटी-संचालित पॅकेट-स्विच नेटवर्कशी जोडणे कार्यस्थळाचे प्रमुख आवश्यकता असेल, आणि या नेटवर्कमध्ये प्रवेशद्वारे पीटीटीद्वारे सुसंगत डेटा संवाद सुनिश्चित करण्यासाठी नियोजित आहेत.
+
+            Reasoning: The original sentence lacked commas, leading to ambiguity about the relationship between the clauses. Adding a comma after ""workstation"" separates the two independent clauses and clarifies that the gateways are planned by the PTTs to ensure seamless data communication. 
+
+
+"
+The system consistently achieved 50 gallons per hour optimum output.,"Step 1 (Restoration): The system consistently achieved 50 gallons per hour, optimum output. 
+
+            Step 2 (Translation):  सिस्टम ने कमीतकमी ५० गॅलन्स प्रति तास, आदर्श उत्पादन मिळवले.
+
+            Reasoning:  The original sentence lacked a comma after ""hour,"" creating ambiguity about whether ""optimum output"" modifies ""50 gallons per hour"" or the entire phrase ""achieved 50 gallons per hour."" Adding the comma clarifies that ""optimum output"" refers to the overall output achieved, not a specific output per hour. 
+
+
+"
+percentage reduction is critical: over and under reduction cause the ink to be very uneven and prone to smudging.,"Step 1 (Restoration): Percentage reduction is critical; over and under reduction cause the ink to be very uneven and prone to smudging. 
+
+            Step 2 (Translation): टक्केवारी कमी करणे महत्त्वाचे आहे; जास्त किंवा कमी कमी करणेमुळे इंक खूपच असमान आणि स्मजण्यास अत्यंत संवेदनशील बनते.
+
+            Reasoning: The original sentence lacks a semicolon to separate the two independent clauses. The semicolon is used here to create a pause and show that the two clauses are related but distinct. The first clause states a fact (percentage reduction is critical), while the second clause explains why (over and under reduction cause uneven ink). 
+
+
+"
+Adopting a user-centered approach is a realistic strategy in the design of both paper and screen based forms.,"Step 1 (Restoration): Adopting a user-centered approach is a realistic strategy in the design of both paper and screen-based forms. 
+
+            Step 2 (Translation): वापरकर्त्यांना केंद्रित करणारा दृष्टिकोन हा कागद आणि स्क्रीनवर आधारित फॉर्म डिझाइन करण्यात एक यथार्थवादी रणनीती आहे.
+
+            Reasoning: The original sentence lacked a hyphen in ""screen-based,"" which is necessary for clarity.  The hyphen clarifies that ""screen-based"" is a compound adjective modifying ""forms."" Without it, the meaning could be ambiguous. 
+
+
+"
+Morphological studies of paraquat or oxygen toxicity in rats have shown significant cellular damage in lung tissue.,"Step 1 (Restoration): Morphological studies of paraquat or oxygen toxicity in rats have shown significant cellular damage in lung tissue.
+
+            Step 2 (Translation): पॅराक्‍वाट किंवा ऑक्‍सीजन विषाणूंवर प्राण्यांवर केलेल्या आकारशास्त्रीय अभ्यासांमधून फुफ्फुसांच्या ऊतीत मोठा सेल्युलर नुकसान दिसून आले आहे. 
+
+            Reasoning: The original sentence lacked a comma after ""paraquat"" which created ambiguity.  It could be interpreted as a single study on both paraquat and oxygen toxicity, or two separate studies. Adding the comma clarifies that there are two separate studies, one on paraquat and one on oxygen toxicity. 
+
+
+
+"
+One should read G. V. Carey’s chapter Proof Correction in Mind the Stop.,"Step 1 (Restoration): One should read G. V. Carey’s chapter, “Proof Correction,” in *Mind the Stop*.
+
+            Step 2 (Translation):  एकाला जी. व्ही. केरी यांच्या ""प्रूफ करेक्शन"" या अध्यायाचा वाचन करायला हवा, *माइंड द स्टॉप* मध्ये. 
+
+            Reasoning: The original sentence lacked commas to separate the chapter title and the book title. Adding commas clarifies the intended meaning, indicating that ""Proof Correction"" is the title of the chapter within the book *Mind the Stop*. 
+
+
+"
+"The glass content of this material is low, 10% by weight, for this application.","Step 1 (Restoration): The glass content of this material is low, 10% by weight, for this application. 
+
+            Step 2 (Translation): या पदार्थाचे कांच्याचे प्रमाण कमी आहे, वजननुसार १०%, या वापरासाठी.
+
+            Reasoning:  The original sentence lacks a comma after ""low"" which creates ambiguity. The comma is essential to separate the introductory phrase ""The glass content of this material is low"" from the subsequent clause providing the percentage. Without the comma, it might seem like 10% is a description of the material being ""low."" 
+
+
+"
+"During the experiment, the animals will be fed with water, via an automatic system, ad libitum.","Step 1 (Restoration): During the experiment, the animals will be fed with water, via an automatic system, ad libitum. 
+
+            Step 2 (Translation): प्रयोगादरम्यान, प्राण्यांना स्वयंचलित प्रणालीद्वारे, अद-लिबिटम पाणी देण्यात येईल.
+
+            Reasoning:  The comma after ""water"" is essential to separate the phrase ""via an automatic system"" as an additional piece of information about how the water will be delivered.  Without the comma, it could be misinterpreted as ""ad libitum"" being part of the system description. 
+
+
+"
+a water:glycol ratio of 60:40 is preferred.,"Step 1 (Restoration): A water:glycol ratio of 60:40 is preferred. 
+
+            Step 2 (Translation): पाण्याच्या आणि ग्लायकॉलच्या मिश्रणाचा ६०:४०अनुपात आवडतो.
+
+            Reasoning: The colon is used here to separate the two parts of a ratio. Without the colon, the sentence would be grammatically incorrect and unclear. 
+
+
+"
+It has thickness of only 16:240 inch.,"Step 1 (Restoration): It has a thickness of only 16:240 inch. 
+
+            Step 2 (Translation): याची मोटाई फक्त १६:२४० इंच आहे.
+
+            Reasoning: The original sentence lacked a crucial article (""a"") before ""thickness,"" making it grammatically incorrect and semantically ambiguous. Adding ""a"" clarifies that the sentence refers to a specific thickness value. 
+
+
+"

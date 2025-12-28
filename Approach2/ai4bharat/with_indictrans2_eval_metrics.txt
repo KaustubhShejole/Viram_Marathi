@@ -1,0 +1,4 @@
+All references combined → BLEU 37.09, chrF++ 67.12
+GT    BLEU 37.09
+
+BEST REFERENCE = GT
