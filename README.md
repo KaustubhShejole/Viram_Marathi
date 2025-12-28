@@ -144,13 +144,6 @@ It is highly recommended to use **virtual environments** (e.g., `venv` or `conda
 
 
 
-## 🔗 Project Files
-
-* **Project Presentation (PPT):** [CS 772 – FINAL PROJECT EVALUATION](https://docs.google.com/presentation/d/1Wn99JgCa23sDjOis7VcCl_dJdGSxpebdkykqVnT05xQ/edit?usp=sharing)
-
----
-
-
 ## 🌐 Demo
 
 A live demonstration of the project, showcasing the best-performing models, has been hosted on Huggingface Spaces.
