@@ -1,0 +1,6 @@
+All references combined → BLEU 60.76, chrF++ 80.54, chrF2++: 77.72
+GT    BLEU 42.34
+Gem   BLEU 21.21
+CFILT BLEU 49.06
+
+BEST REFERENCE = CFILT

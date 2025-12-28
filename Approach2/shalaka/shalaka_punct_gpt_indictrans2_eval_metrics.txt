@@ -1,0 +1,6 @@
+All references combined → BLEU 28.62, chrF++ 58.09, chrF2++: 54.55
+GT    BLEU 14.59
+Gem   BLEU 18.69
+CFILT BLEU 15.60
+
+BEST REFERENCE = Gemini
