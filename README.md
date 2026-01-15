@@ -1,8 +1,20 @@
 # A Punctuation-Robust Approach to English-to-Marathi Machine Translation
-
-This repository contains the code, models, and resources for the final project submission for **CS 772 – FINAL PROJECT EVALUATION**.
-
+This repository contains the code, trained models, and supporting resources for assessing **punctuation robustness in English–Marathi machine translation (MT)**. The project investigates how variations and inconsistencies in punctuation impact translation quality, with a particular focus on realistic and low-resource evaluation settings.
 The project addresses a critical issue in Machine Translation (MT): building systems that are robust to punctuation errors or omissions in the source English text, specifically for translation into the Marathi language.
+
+
+## Dataset
+
+The experiments use a human-validated English–Marathi test dataset hosted on Hugging Face.
+
+**Dataset link:**  
+https://huggingface.co/datasets/thenlpresearcher/test_data_human_validated_eng_mar
+
+The dataset is designed to evaluate punctuation sensitivity and robustness in MT systems under controlled yet realistic conditions.
+
+
+
+
 
 ---
 
