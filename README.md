@@ -12,7 +12,7 @@ https://huggingface.co/datasets/thenlpresearcher/test_data_human_validated_eng_m
 
 The dataset is designed to evaluate punctuation sensitivity and robustness in MT systems under controlled yet realistic conditions.
 
-
+The internal dataset used for fine-tuning is an in-house corpus created by professional human translators as part of another project. The dataset will be released shortly upon completion of that project. In the meantime, if access is required, please contact kaustubhshejole@cse.iitb.ac.in.
 
 
 
