@@ -15,25 +15,6 @@ The dataset is designed to evaluate punctuation sensitivity and robustness in MT
 The internal dataset used for fine-tuning is an in-house corpus created by professional human translators as part of another project. The dataset will be released shortly upon completion of that project. In the meantime, if access is required, please contact kaustubhshejole@cse.iitb.ac.in.
 
 
-
----
-
-## 🌟 Project Details
-
-| Category | Details |
-| :--- | :--- |
-| **Title** | Punctuation-Robust Machine Translation: A Case Study of MT from English to Marathi |
-| **Course** | CS 772 – FINAL PROJECT EVALUATION |
-| **Submission Date** | 27th November 2025 |
-
-### 👨‍💻 Authors and Guidance
-
-| Role | Name | Student ID |
-| :--- | :--- | :--- |
-| **Author 1** | Kaustubh S. Shejole | 24M2109 |
-| **Author 2** | Shalaka Thorat | 24M0848 |
-| **Project Guide** | Sourabh Deoghare | N/A |
-
 ---
 
 ## 💡 Problem Statement
